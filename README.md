@@ -28,8 +28,8 @@ Octopus-mate reserves the right to change these terms and conditions at any time
 
 7. Governing Law
 
-These terms and conditions are governed by the laws of [Your Country/State]. Any disputes arising in connection with these terms and conditions shall be subject to the exclusive jurisdiction of the courts of [Your Country/State].
+These terms and conditions are governed by the laws of the United Kingdom. Any disputes arising in connection with these terms and conditions shall be subject to the exclusive jurisdiction of the courts of the United Kingdom.
 
 8. Contact
 
-For any questions regarding these terms and conditions, please contact us at [Your Contact Email].
+For any questions regarding these terms and conditions, please contact us.
