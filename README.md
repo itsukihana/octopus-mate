@@ -19,6 +19,8 @@ To get started with Octopus-mate, follow these simple steps:
 4. Restart the App for the changes to take effect.
 5. You're all set to use Octopus-mate! 🎉
 
+Note that by default we show you the latest Agile rates. This is currently per Feb 2023 tarrif. Learn more at: [Octopus Agile](https://octopus.energy/smart/agile/)
+
 ---
 
 ## 2. How to Get Agile with Octopus Energy 💡 <a name="how-to-get-agile-with-octopus-energy"></a>
@@ -52,7 +54,7 @@ By using the App, the user consents to the collection and use of their informati
 
 ### No Responsibility for Third-Party Services
 
-The App may contain links or references to third-party websites or services. Octopus-mate is not responsible for the content or operation of such third-party services and does not endorse them in any way.
+The App, related documentation, or any related material may contain links or references to third-party websites or services. Octopus-mate is not responsible for the content or operation of such third-party services and does not endorse them in any way, including any direct or indirect references herein.
 
 ### Changes to Terms and Conditions
 
