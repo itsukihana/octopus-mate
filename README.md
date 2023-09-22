@@ -1,6 +1,6 @@
-# octopus-mate 🐙
-
 *Please note: Octopus-mate is a third-party application and isn't affiliated with or operated by Octopus Energy.*
+
+# octopus-mate 🐙
 
 ## Table of Contents
 1. [How to Use 🛠️](#how-to-use)
