@@ -1,5 +1,7 @@
 # octopus-mate 🐙
 
+*Please note: Octopus-mate is a third-party application and isn't affiliated with or operated by Octopus Energy.*
+
 ## Table of Contents
 1. [How to Use 🛠️](#how-to-use)
 2. [How to Get Agile with Octopus Energy 💡](#how-to-get-agile-with-octopus-energy)
