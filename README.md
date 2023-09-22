@@ -25,7 +25,7 @@ To get started with Octopus-mate, follow these simple steps:
 
 Are you ready to transition to clean, renewable energy and adapt to the electricity usage on the grid? While we are not affiliated with Octopus Energy, we believe in their mission. If you're considering signing up:
 
-- Get a £100 discount when you use our referral link. 🌍
+- Get a £50 discount when you use our referral link. 🌍
 - By using our referral, you also support our development work, as we don't charge you any fees.
 
 [Sign up with Octopus Energy and get a £50 discount!](https://share.octopus.energy/brass-skunk-32)
