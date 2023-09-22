@@ -73,4 +73,3 @@ All images used in the Octopus-mate application are sourced from reputable image
 
 - [Cute cool octopus wearing glasses cartoon vector icon illustration](https://www.freepik.com/free-vector/cute-cool-octopus-wearing-glasses-cartoon-vector-icon-illustration-animal-fashion-icon-isolated-flat_65861697.htm#query=octopus&position=34&from_view=search&track=sph): Courtesy of [catalyststuff](https://www.freepik.com/catalyststuff) on Freepik.
 
-(Note: Replace placeholders with actual image details and artist/photographer information as needed.)
