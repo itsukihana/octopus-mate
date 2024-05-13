@@ -1,0 +1,27 @@
+LICENSED APPLICATION END USER LICENSE AGREEMENT
+
+This Licensed Application End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Itsuki Hana Ltd ("Licensor") for the Licensed Application ("Application") made available through the Apple App Store. By downloading, installing, and using the Application, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not download, install, or use the Application.
+Apps made available through the App Store are licensed, not sold, to you. Your license to each App is subject to your prior acceptance of either this Licensed Application End User License Agreement (“Standard EULA”), or a custom end user license agreement between you and the Application Provider (“Custom EULA”), if one is provided. Your license to any Apple App under this Standard EULA or Custom EULA is granted by Apple, and your license to any Third Party App under this Standard EULA or Custom EULA is granted by the Application Provider of that Third Party App. Any App that is subject to this Standard EULA is referred to herein as the “Licensed Application.” The Application Provider or Apple as applicable (“Licensor”) reserves all rights in and to the Licensed Application not expressly granted to you under this Standard EULA.
+The terms and conditions of https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ apply unless otherwise indicated.
+
+a. Scope of License: Licensor grants you a nontransferable license to use the Application on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple App Store Terms of Service. The terms of this EULA will govern any content, materials, or services accessible from or purchased within the Application as well as upgrades provided by Licensor that replace or supplement the original Application, unless such upgrade is accompanied by a separate license.
+
+b. Consent to Use of Data: You agree that Licensor may collect and use technical data and related information—including but not limited to technical information about your device, system, and application software, and peripherals—that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Application. Licensor may use this information, as long as it is in a form that does not personally identify you, to improve its products or to provide services or technologies to you.
+
+c. Termination: This EULA is effective until terminated by you or Licensor. Your rights under this EULA will terminate automatically without notice from Licensor if you fail to comply with any of its terms.
+
+d. 30-Day Refund Policy: You may request a full refund of your purchase within 30 days from the date of purchase if you are unsatisfied with the Application. To initiate a refund, contact itsuki.hana@proton.me with your order details. Refunds will be processed to the original method of payment and may take up to [specify number of days] to be credited.
+
+e. NO WARRANTY: YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED APPLICATION AND ANY SERVICES PERFORMED OR PROVIDED BY THE LICENSED APPLICATION ARE PROVIDED "AS IS" AND “AS AVAILABLE,” WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE LICENSED APPLICATION AND ANY SERVICES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+
+f. Limitation of Liability: TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE) AND EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+g. Legal Compliance: You may not use or otherwise export or re-export the Licensed Application except as authorized by United States law and the laws of the jurisdiction in which the Licensed Application was obtained.
+
+h. Governing Law: This EULA and your use of the Application will be governed by and construed in accordance with the laws of the United Kingdom, excluding its conflicts of law rules.
+
+i. Contact Information: For any questions, complaints, or claims, contact Itsuki Hana Ltd at itsuki.hana@proton.me .
+
+j. Third Party Beneficiary: Apple, and Apple's subsidiaries, are third-party beneficiaries of this EULA, and upon your acceptance of the terms and conditions of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof.
+
+By using the Application, you acknowledge that you have read this EULA, understood it, and agree to be bound by its terms. If you do not agree to the terms of this EULA, you are not authorized to use the Application.
